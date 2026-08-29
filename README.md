@@ -50,7 +50,7 @@ I'm a developer interested in building useful software, exploring technology, an
   </a>
 </p>---
 
-«"Curiosity is the pulse of discovery."»
+« Curiosity is the pulse of discovery »
 
 ---
 
