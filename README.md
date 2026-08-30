@@ -1,33 +1,21 @@
-<h1 align="center">
-  Hi, I'm Walid 👋
-</h1>
+# Hi, I'm Walid <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="Waving hand" width="40" />
 
-<p align="center">
-  <strong>Software Developer • Android Developer • Flutter Developer</strong>
-</p>
+### Software Developer • Android & Flutter Developer
 
-<p align="center">
-  <i>Building, learning, and exploring technology.</i>
-</p>
+I'm a developer interested in building useful software, exploring technology, and continuously improving my skills.
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
-I'm a software developer interested in building useful software and exploring different areas of development.
+I'm interested in building useful software, exploring new technologies, and continuously improving my development skills.
 
-I enjoy learning new technologies, improving my programming skills, and turning ideas into practical and reliable software.
-
-- 💻 Interested in software development
-- 📱 Focused on Android & Flutter development
-- 🐧 Comfortable working with Linux
-- 🔧 Using Git for version control
-- 🚀 Always learning and improving
-- 🤝 Open to collaboration and new ideas
+- Open to project collaborations
+- Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Languages & Tools
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Technologies & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,55 +25,39 @@ I enjoy learning new technologies, improving my programming skills, and turning 
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Currently Learning
 
 - Software Development
 - Android Development
+- Dart
 - Flutter
 - Python
-- Software Engineering Fundamentals
-- Problem Solving
 
 ---
 
-## 🎯 Goals
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Goals
 
 - Build useful and reliable software
 - Strengthen my programming fundamentals
-- Improve my problem-solving skills
-- Explore new technologies
-- Create better user experiences
-- Continuously grow as a developer
+- Continuously learn and explore new technologies
+- Grow as a software developer
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" height="30" /> Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walrou&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walrou&layout=compact&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=walrou&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:walidrouibah7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:walidrouibah7@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
   </a>
-  <a href="https://www.instagram.com/wal_rou">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/wal_rou" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
   </a>
-  <a href="https://t.me/wal_rou">
-    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <a href="https://t.me/wal_rou" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/walid-rouibah-69a51a337">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/walid-rouibah-69a51a337" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
 </p>
 
@@ -95,6 +67,8 @@ I enjoy learning new technologies, improving my programming skills, and turning 
   <i>"Curiosity is the pulse of discovery."</i>
 </p>
 
+---
+
 <p align="center">
-  <sub>Always learning • Always building</sub>
+  <i>Always learning • Always building</i>
 </p>
